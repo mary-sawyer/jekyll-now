@@ -9,7 +9,7 @@ name: Mary Sawyer
 description: InfoSec Engineer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars0.githubusercontent.com/u/16964838?v=4&s=400
+avatar: https://pbs.twimg.com/profile_images/896163955642572802/oN4_JJTm_400x400.jpg
 
 #
 # Flags below are optional
@@ -18,10 +18,10 @@ avatar: https://avatars0.githubusercontent.com/u/16964838?v=4&s=400
 # Includes an icon in the footer for each username you enter
 footer-links:
   email: marysawyer@utexas.edu
-  linkedin: https://www.linkedin.com/in/marygsawyer/
+  linkedin: marygsawyer/
   rss: ms
-  twitter: 0x_90
-  stackoverflow: /users/11535795/mary-s
+  twitter: '0x_90'
+  stackoverflow: users/11535795/mary-s
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
